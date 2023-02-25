@@ -3,7 +3,7 @@ A FullStack Ecommerce App built using Django and React.
 
 # Table of content 
 - [About_this_App](#About_this_App)
-- [Project_Features](#Project_Features)
+- [Project_Features](#🚀Project_Features)
 - [App_Overview](#App_Overview)
   * [Login_Register](#Login_Register)
   * [Home_Page](#Home_Page)
@@ -25,7 +25,7 @@ The application has a user-friendly interface that is easy to navigate, with fea
 For business owners, the E-commerce platform provides a powerful admin panel that allows them to manage their products, orders, customers. They can add new products, update existing ones, and manage their inventory levels.
 
 
-## 🚀 Project_Features
+## 🚀Project_Features
 
 A completely customized eCommerce / shopping cart application using Django, REACT and REDUX with the following functionality:
 
