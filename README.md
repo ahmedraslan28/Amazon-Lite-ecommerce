@@ -80,6 +80,7 @@ after downloading/cloning the repository code follow below steps:
 * (NOTE: you will need to download poetry for virtual enviroment, https://python-poetry.org/docs)
 ### Backend
 1) Move in backend folder through terminal and run following commands,
+
 `poetry install`
 
 `poetry shell`
@@ -88,6 +89,7 @@ after downloading/cloning the repository code follow below steps:
 
 ### Frontend
 2) Move in frontend folder through terminal and run follwing commands,
+
 `npm i`
 
 `npm start`
