@@ -1,9 +1,6 @@
 # FullStack_Ecommerce_App
 A FullStack Ecommerce App built using Django and React.
 
-
-![image](Github-Images/Home.png)
-
 # Table of content 
 - [About_this_App](#About_this_App)
 - [App_Overview](#App_Overview)
