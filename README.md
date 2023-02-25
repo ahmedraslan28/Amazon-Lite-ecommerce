@@ -28,7 +28,7 @@ For business owners, the E-commerce platform provides a powerful admin panel tha
 ### Login_Register
 Login with your account or create new one if not registered.
 ![image](Github-Images/Login.png)
-![image](Github-Images/Register.png)
+![image](Github-Images/SignUp.png)
 
 ---
 
