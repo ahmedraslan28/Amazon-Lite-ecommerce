@@ -12,7 +12,7 @@ A FullStack Ecommerce App built using Django and React.
   * [OrderDetail_Payment](#OrderDetail_Payment)
   * [UserProfile_Orders](#UserProfile_Orders)
   * [Admin_Panel](#Admin_Panel)
-  * [Installation](#Installation)
+- [Installation](#Installation)
 
 
 
