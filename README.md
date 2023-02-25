@@ -12,6 +12,7 @@ A FullStack Ecommerce App built using Django and React.
   * [OrderDetail_Payment](#OrderDetail_Payment)
   * [UserProfile_Orders](#UserProfile_Orders)
   * [Admin_Panel](#Admin_Panel)
+  * [Installation](#Installation)
 
 
 
@@ -81,12 +82,12 @@ after downloading/cloning the repository code follow below steps:
 1) Move in backend folder through terminal and run following commands,
 `poetry install`
 
-`poettry shell`
+`poetry shell`
 
 `python manage.py runsever`
 
 ### Frontend
-2) Move in frontend folder through terminal and run follwing commands
+2) Move in frontend folder through terminal and run follwing commands,
 `npm i`
 
 `npm start`
