@@ -113,3 +113,13 @@ after downloading/cloning the repository code follow below steps:
 
 `npm start`
 
+
+## For testers
+
+| Email             | Password | Type   | Product |
+| ----------------- | -------- | ------ | ------- |
+| user1@gmail.com   | password | user   | free    |
+| user11@gmail.com  | password | user   | premium |
+| artist1@gmail.com | password | artist | free    |
+
+
