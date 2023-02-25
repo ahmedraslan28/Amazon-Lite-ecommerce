@@ -4,8 +4,13 @@ A FullStack Ecommerce App built using Django and React.
 # Table of content 
 - [About_this_App](#About_this_App)
 - [App_Overview](#App_Overview)
+  * [Login_Register](#Login_Register)
   * [Home_Page](#Home_Page)
   * [Single_Product_Page](#Single_Product_Page)
+  * [Shopping_Cart](#Shopping_Cart)
+  * [Shipping_address](#Shipping_address)
+  * [OrderDetail_Payment](#OrderDetail_Payment)
+  * [UserProfile_Orders](#UserProfile_Orders)
 
 
 
@@ -18,10 +23,38 @@ For business owners, the E-commerce platform provides a powerful admin panel tha
 
 
 ## App_Overview
+### Login_Register
+Login with your account or create new one if not registered.
+![image](Github-Images/Login.png)
+![image](Github-Images/Register.png)
+
+
 ### Home_Page
 displays all the available products on the website with paginate & top 5 highest rating produts .
 ![image](Github-Images/Home.png)
 
 ### Single_Product_Page
-display all information about single product.
+display all information about single product, with ability to add review. 
 ![image](Github-Images/ProductPage.png)
+
+### Shopping_Cart
+display all the products added to the cart  
+![image](Github-Images/ShoopingCart.png)
+
+### Shipping_address
+the order shipping address.
+![image](Github-Images/ShippingAdress.png)
+
+### OrderDetail_Payment
+show the order details and payment 
+![image](Github-Images/OrderDetails&paymentPage.png)
+
+### UserProfile_Orders
+show the user profile with ability to update user info & show all the user orders
+![image](Github-Images/UserOrders&UpdateProfile.png)
+
+### Admin_Panel 
+full functionality admin panel with abiliy to full control of users and orders and products 
+![image](Github-Images/AdminProductList.png)
+![image](Github-Images/AdminOrderList.png)
+![image](Github-Images/AdminUsersList.png)
