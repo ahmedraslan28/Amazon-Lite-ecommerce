@@ -121,6 +121,6 @@ after downloading/cloning the repository code follow below steps:
 | ----------------- | -------- | ------ |
 | user@gmail.com    | user | user   | 
 | admin@gmail.com   | admin | admin   | 
-| payment@mailna.co | payment1234 | Fake paypal sandbocx account for testing
+| payment@mailna.co | payment1234 | Fake paypal sandbox account for testing
 
 
