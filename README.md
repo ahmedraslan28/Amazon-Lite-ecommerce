@@ -7,8 +7,8 @@ A FullStack Ecommerce App built using Django and React.
 # Table of content 
 - [About_this_App](#About_this_App)
 - [App_Overview](#App_Overview)
-  * [Home Page](#Home Page)
-  * [Single Product Page](#Single Product Page)
+  * [Home_Page](#Home_Page)
+  * [Single_Product_Page](#Single_Product_Page)
 
 
 
@@ -21,10 +21,10 @@ For business owners, the E-commerce platform provides a powerful admin panel tha
 
 
 ## App_Overview
-### Home Page
+### Home_Page
 displays all the available products on the website with paginate & top 5 highest rating produts .
 ![image](Github-Images/Home.png)
 
-### Single Product Page
+### Single_Product_Page
 display all information about single product.
 ![image](Github-Images/ProductPage.png)
