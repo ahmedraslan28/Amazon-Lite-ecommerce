@@ -14,6 +14,7 @@ A FullStack Ecommerce App built using Django and React.
   * [UserProfile_Orders](#UserProfile_Orders)
   * [Admin_Panel](#Admin_Panel)
 - [Installation](#Installation)
+- [Testers](#Testers)
 
 
 
@@ -114,11 +115,11 @@ after downloading/cloning the repository code follow below steps:
 `npm start`
 
 
-## For testers
+## Testers
 
 | Email             | Password | Type   | 
 | ----------------- | -------- | ------ |
-| user@gmail.com    | password | user   | 
-| admin@gmail.com   | password | admin   | 
+| user@gmail.com    | user | user   | 
+| admin@gmail.com   | admin | admin   | 
 
 
