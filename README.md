@@ -3,6 +3,7 @@ A FullStack Ecommerce App built using Django and React.
 
 # Table of content 
 - [About_this_App](#About_this_App)
+- [Project_Features](#Project_Features)
 - [App_Overview](#App_Overview)
   * [Login_Register](#Login_Register)
   * [Home_Page](#Home_Page)
@@ -22,6 +23,24 @@ One of the key features of this E-commerce platform is its integration with PayP
 The application has a user-friendly interface that is easy to navigate, with features such as search functionality. Customers can browse through products, add them to their cart, and then proceed to checkout. The application also allows customers to create an account, which enables them to view their order history, manage their shipping and billing addresses, and save their payment methods.
 
 For business owners, the E-commerce platform provides a powerful admin panel that allows them to manage their products, orders, customers. They can add new products, update existing ones, and manage their inventory levels.
+
+
+## 🚀 Project_Features
+
+A completely customized eCommerce / shopping cart application using Django, REACT and REDUX with the following functionality:
+
+- Full featured shopping cart
+- Product reviews and Ratings
+- Top products carousel
+- Product pagination
+- Product search feature
+- User profile with orders
+- Admin product management
+- Admin user management
+- Admin Order details page
+- Mark orders as a delivered option
+- Checkout process (shipping, payment method, etc)
+- PayPal / credit card integration
 
 
 ## App_Overview
