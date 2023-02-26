@@ -28,7 +28,7 @@ For business owners, the E-commerce platform provides a powerful admin panel tha
 
 ## Project_Features
 
-A completely customized eCommerce / shopping cart application using Django, REACT and REDUX with the following functionality:
+A completely customized eCommerce / shopping cart application using Django, REACT with the following functionality:
 
 - Full featured shopping cart
 - Product reviews and Ratings
